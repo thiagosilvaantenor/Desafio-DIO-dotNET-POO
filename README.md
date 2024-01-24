@@ -51,8 +51,8 @@ A tabela abaixo mostra quais foram as alterações feitas em cada classe, caso q
 | Classe | Mudanças |
 | ------ | -------- |
 | [Smartphone](https://github.com/thiagosilvaantenor/Desafio-DIO-dotNET-POO/blob/main/Models/Smartphone.cs)  | Implementado as propriedas que faltavam, todas com o modificador de acesso ``protected`` para que sejam alteradas apenas pelas classes que herdaram;<br>No construtor foi passado os parametros para instanciar a classe. | 
-| [Nokia](https://github.com/thiagosilvaantenor/Desafio-DIO-dotNET-POO/blob/main/Models/Nokia.cs) | Realizado a herança dela com a classe ``Smartphone`` ;<br>No metodo ``Instalar Aplitcativo`` foi realizado o overrride para atender ao objetivo da classe|
-| [Iphone](https://github.com/thiagosilvaantenor/Desafio-DIO-dotNET-POO/blob/main/Models/Iphone.cs) | Realizado a herança dela com a classe ``Smartphone`` ;<br>No metodo ``Instalar Aplitcativo`` foi realizado o overrride para atender ao objetivo da classe|
+| [Nokia](https://github.com/thiagosilvaantenor/Desafio-DIO-dotNET-POO/blob/main/Models/Nokia.cs) | Realizado a herança dela com a classe ``Smartphone`` ;<br>No metodo ``Instalar Aplitcativo`` foi realizado o override para atender ao objetivo da classe|
+| [Iphone](https://github.com/thiagosilvaantenor/Desafio-DIO-dotNET-POO/blob/main/Models/Iphone.cs) | Realizado a herança dela com a classe ``Smartphone`` ;<br>No metodo ``Instalar Aplitcativo`` foi realizado o override para atender ao objetivo da classe|
 | [Program](https://github.com/thiagosilvaantenor/Desafio-DIO-dotNET-POO/blob/main/Program.cs) | Foi criado instancias da classe ``Nokia`` e da classe ``Iphone``, para então realizar os testes chamando os metodos dessas classes;<br>O resultado é mostrado no terminal, como na imagem abaixo:<br>![image](https://github.com/thiagosilvaantenor/Desafio-DIO-dotNET-POO/assets/99970279/73284eb0-e94c-47cd-be11-c13d31ca5e79) |
  
 </div>
